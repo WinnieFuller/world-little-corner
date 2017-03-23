@@ -1,2 +1,4 @@
-# world-little-corner
-Innovative comfy zone
+# hello-world
+very first repositories
+
+Andrea my dinosaur!
